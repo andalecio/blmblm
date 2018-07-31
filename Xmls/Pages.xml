@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pages>
+	<Page Name="Menu_Beleza.aspx" Title="Menu Beleza" />
+	<Page Name="Menu_Esporte.aspx" Title="Menu Esporte" />
+	<Page Name="Menu_Cinema.aspx" Title="Menu Cinema" />
+	<Page Name="Menu_Samba.aspx" Title="Menu Samba" />
+	<Page Name="Menu_Baile.aspx" Title="Menu Baile" />
+	<Page Name="Tipo_Evento.aspx" Title="Tipo Evento" />
+	<Page Name="Menu_Balada.aspx" Title="Menu Balada" />
+	<Page Name="Menu_Feira.aspx" Title="Menu Feira" />
+	<Page Name="Menu_Passeio.aspx" Title="Menu Passeio" />
+	<Page Name="Menu_Comida.aspx" Title="Menu Comida" />
+	<Page Name="Menu_Show.aspx" Title="Menu Show" />
+	<Page Name="Menu_Teatro.aspx" Title="Menu Teatro" />
+</Pages>
